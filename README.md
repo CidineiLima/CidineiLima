@@ -1,6 +1,6 @@
 ### Olá a todos, aqui é o [Cidinei Lima] 👋
 
-Tenho trabalhado como desenvolvedor de software. Minha principal responsabilidade é desenvolver frontend utilizando as tecnologias React JS e React Native.
+Tenho trabalhado como desenvolvedor de software com foco em frontend utilizando as tecnologias React JS e React Native.
 
 <br>
 
